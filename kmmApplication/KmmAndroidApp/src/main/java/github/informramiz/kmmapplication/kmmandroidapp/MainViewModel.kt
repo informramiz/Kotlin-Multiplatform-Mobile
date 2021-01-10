@@ -1,7 +1,6 @@
-package github.informramiz.kmmapplication.KmmAndroidApp
+package github.informramiz.kmmapplication.kmmandroidapp
 
 import android.app.Application
-import android.widget.Toast
 import androidx.lifecycle.*
 import github.informramiz.kmmapplication.shared.SpaceXSDK
 import github.informramiz.kmmapplication.shared.model.db.DatabaseDriverFactory

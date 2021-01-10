@@ -1,4 +1,4 @@
-package github.informramiz.kmmapplication.KmmAndroidApp
+package github.informramiz.kmmapplication.kmmandroidapp
 
 import android.os.Bundle
 import android.widget.FrameLayout

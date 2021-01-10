@@ -1,4 +1,4 @@
-package github.informramiz.kmmapplication.KmmAndroidApp
+package github.informramiz.kmmapplication.kmmandroidapp
 
 import github.informramiz.kmmapplication.shared.model.entities.RocketLaunch
 
